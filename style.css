@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap");
+
+body {
+    margin: 0px;
+    height: 100%;
+    background-color: #0391fd;
+    font-family: "Pixelify Sans", sans-serif;
+    letter-spacing: 2px;
+    justify-items: center;
+}
+header {
+    color: white;
+    text-align: center;
+}
+section {
+    font-size: 30pt;
+    background-color: #fcfdff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(54, 40, 33);
+    justify-items: center;
+}
+img {
+    width: 250px;
+    height: auto;
+}
+div{
+    text-align: center;
+}
+footer {
+    color: white;
+}
+
+#kumo {
+    margin-top: 15px;
+    padding: 15px;
+    width: 100%;
+    max-width: 550px;
+    min-height: 60px;
+    background-color: #222;    /* caixa escura */
+    color: #fff;
+    font-size: 16pt;           /* menor que o texto da hora */
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 5px rgba(0,0,0,0.3);
+}
