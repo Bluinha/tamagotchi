@@ -33,6 +33,14 @@ footer {
     color: white;
 }
 
+nav{
+    display: none;
+}
+
+span{
+    font-size: 18px;
+}
+
 #kumo {
     margin-top: 15px;
     padding: 15px;
